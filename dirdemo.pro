@@ -26,13 +26,11 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    group_identical_files.cpp \
-    group_files.cpp
+    group_identical_files.cpp
 
 HEADERS += \
         mainwindow.h \
-    group_identical_files.h \
-    group_files.h
+    group_identical_files.h
 
 FORMS += \
         mainwindow.ui

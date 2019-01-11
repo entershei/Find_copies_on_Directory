@@ -130,6 +130,9 @@
    <addaction name="actionScan_Directory"/>
    <addaction name="separator"/>
    <addaction name="actionDelete_selected_files"/>
+   <addaction name="separator"/>
+   <addaction name="actionCancel"/>
+   <addaction name="separator"/>
   </widget>
   <action name="actionScan_Directory">
    <property name="enabled">
@@ -153,6 +156,11 @@
    </property>
    <property name="toolTip">
     <string>Delete selected files</string>
+   </property>
+  </action>
+  <action name="actionCancel">
+   <property name="text">
+    <string>&amp;Don't use this directory</string>
    </property>
   </action>
  </widget>
