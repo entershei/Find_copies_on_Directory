@@ -5,7 +5,7 @@ Concurrent program that finds file duplicates in the given directory.
 Written in C++ and uses QT.
 
 
- ### Run:
+ ### Run
  `cmake . && make Find_copies && ./Find_copies`
 
 ### Files descriptions
