@@ -18,5 +18,6 @@ Sources:
  
 Other files:
  - `mainwindow.ui` — XML-file with the window descriptions. 
- - `CMakeLis.txt` 
+ - `CMakeLis.txt`
+ - `dirdemo.pro` — for qmake. 
 
