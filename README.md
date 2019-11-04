@@ -2,7 +2,7 @@ Find_copies_on_Directory
 -------------------------------------------------------
 
 Concurrent program that finds file duplicates in the given directory.
-Written in C++ and uses QT.
+Written in C++ and uses Qt.
 
 
  ### Run
